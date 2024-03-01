@@ -1,4 +1,4 @@
-from chebyshev import chebyshev, der_chebyshev
+from cd_py_cheb import chebyshev, der_chebyshev
 
 
 def test_chebyshev():
